@@ -21,4 +21,9 @@ Voici mon test pour graneet, le front est en react, le back en nest et la bbd es
 
 > npm run start
 
-Pour se connecter à la BDD les variables d'environnement sont dans le mail
+Pour se connecter à la BDD les variables d'environnement sont dans le mail et sont a mettre dans un fichier .env dans graneet/api
+
+
+## Les exercices d'algo
+
+Ils sont dans le fichier exerciceAlgo.js 
