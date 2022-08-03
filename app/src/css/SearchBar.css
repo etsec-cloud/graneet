@@ -1,0 +1,13 @@
+.searchContainer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(116, 136, 151);
+    width:100%;
+}
+.searchBar{
+    width: 80%;
+}
+.searchLabel{
+    font-weight: bold;
+    font-size: large;
+}
